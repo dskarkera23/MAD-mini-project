@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_bg2.jpg.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/bg2.jpg"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_app_logo.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/app_logo.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_beach.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/beach.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_selection.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/selection.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.packyourbag.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_background3.jpeg.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/background3.jpeg"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_ic_search.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_technology.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/technology.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_food.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/food.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_car.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/car.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/layout_activity_about_us.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_cloths.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/cloths.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_bg5.jpg.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/bg5.jpg"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_wave2.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/wave2.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_mylist.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/mylist.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_need.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/need.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.packyourbag.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/layout_check_list_item.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/layout/check_list_item.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_basic_needs.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/basic_needs.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_check.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/check.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_health.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/health.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_person_care.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/person_care.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_border_rad.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/border_rad.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.packyourbag.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.packyourbag.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/layout_activity_check_list.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/layout/activity_check_list.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_warning.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/warning.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.packyourbag.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_delete.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/delete.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/layout_activity_splash.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_bg3.jpg.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/bg3.jpg"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.packyourbag.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.packyourbag.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/menu_menu_one.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/menu/menu_one.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_bg1.jpg.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/bg1.jpg"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_border_1dp.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/border_1dp.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.packyourbag.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_baby_needs.png.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/baby_needs.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_ic_delete.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/layout_main_item.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/layout/main_item.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.packyourbag.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.packyourbag.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/drawable_bg4.jpg.flat",
+        "source": "com.example.packyourbag.app-main-33:/drawable/bg4.jpg"
+    }
+]
