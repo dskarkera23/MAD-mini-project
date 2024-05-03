@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- custom_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#00000000" /> <!-- Black background color -->
+    <corners android:radius="8dp" /> <!-- Adjust the radius value to reduce the border radius -->
+</shape>

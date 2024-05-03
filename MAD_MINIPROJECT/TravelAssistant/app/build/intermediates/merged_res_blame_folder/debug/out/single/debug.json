@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg1.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_wave2.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\wave2.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_cloths2.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\cloths2.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_baby1.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\baby1.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_redcloths.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\redcloths.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_beach.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\beach.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_need.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\need.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg8.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\layout_main_item.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\layout\\main_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg22.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg22.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg14.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_border_1dp.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\border_1dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\font_chewy.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\font\\chewy.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_docs.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\docs.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_food3.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\food3.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_prscare1.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\prscare1.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_mylist.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\mylist.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg11.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg5.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg18.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg18.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_background3.jpeg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\background3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_border_rad.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\border_rad.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg9.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_warning.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg13.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_food1.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\food1.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_yu17.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\yu17.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_mylist4.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\mylist4.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg2.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_baby_needs.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\baby_needs.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_cloths1.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\cloths1.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_gadgets3.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\gadgets3.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_mylist1.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\mylist1.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_beach3.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\beach3.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg6.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg10.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg17.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg17.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_technology.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\technology.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\font_caveat_brush.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\font\\caveat_brush.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_cloths4.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\cloths4.png"
+    },
+    {
+        "merged": "com.example.packyourbag.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.packyourbag.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg16.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg16.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_gadgets2.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\gadgets2.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg20.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg20.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg3.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_gadget1.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\gadget1.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_delete.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_mylist3.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\mylist3.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\menu_menu_one.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\menu\\menu_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\layout_check_list_item.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\layout\\check_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_check.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\font_teko_light.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\font\\teko_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_food.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_beach2.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\beach2.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_docs1.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\docs1.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_myselection.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\myselection.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_health.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\health.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_basic_needs.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\basic_needs.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_car.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\layout_activity_check_list.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\layout\\activity_check_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_cloths3.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\cloths3.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg15.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_selection.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\selection.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_person_care.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\person_care.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_health1.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\health1.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg21.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg21.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg7.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg19.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg19.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_food2.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\food2.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_app_logo.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_beach1.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\beach1.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg12.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_cloths.png.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\cloths.png"
+    },
+    {
+        "merged": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-merged_res-31:\\drawable_bg4.jpg.flat",
+        "source": "C:\\Users\\sjkar\\.gradle\\daemon\\8.0\\com.example.packyourbag.app-main-33:\\drawable\\bg4.jpg"
+    }
+]
