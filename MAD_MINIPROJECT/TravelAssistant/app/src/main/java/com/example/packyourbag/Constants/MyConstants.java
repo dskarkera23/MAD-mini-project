@@ -18,7 +18,7 @@ public class MyConstants {
     public static final String BEACH_SUPPLIES_CAMEL_CASE = "Beach Supplies";
 //    public static final String CAR_SUPPLIES_CAMEL_CASE = "Vehicle KIT";
     public static final String DOCS_CAMEL_CASE = "Essentials";
-    public static final String MY_LIST_CAMEL_CASE = "My List";
+    public static final String MY_LIST_CAMEL_CASE = "Custom List";
     public static final String MY_SELECTIONS_CAMEL_CASE = "My Selections";
     public static final String FIRST_TIME_CAMEL_CASE = "First Time";
 
