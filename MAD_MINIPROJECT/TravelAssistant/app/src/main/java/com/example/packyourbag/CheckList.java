@@ -107,34 +107,8 @@ public class CheckList extends AppCompatActivity {
             intent.putExtra(MyConstants.SHOW_SMALL, MyConstants.FALSE_STRING);
             startActivityForResult(intent, 101);
             return true;
-        } else if (id == R.id.btnCustomList) {
-            intent.putExtra(MyConstants.HEADER_SMALL, MyConstants.MY_LIST_CAMEL_CASE);
-            intent.putExtra(MyConstants.SHOW_SMALL, MyConstants.TRUE_STRING);
-            startActivity(intent);
-            return true;
-        } else if (id == R.id.btnDeleteDefault) {
-            new AlertDialog.Builder(this)
-                    .setTitle("Delete default data")
-                    .setMessage("Are you sure?\n\nAs this will delete the data provide by" +
-                            "(Pack your Bag) while installing..")
-                    .setIcon(R.drawable.warning)
-                    .setPositiveButton("Confirm", new DialogInterface.OnClickListener() {
-                        @Override
-                        public void onClick(DialogInterface dialogInterface, int i) {
-                            appData.persistDataByCategory(header, true);
-                            itemsList = database.mainDao().getAll(header);
-                            updateRecycler(itemsList);
-                        }
-                    })
-                    .setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
-                        @Override
-                        public void onClick(DialogInterface dialogInterface, int i) {
-
-                        }
-                    })
-                    .show();
-            return true;
-        } else if (id == R.id.btnReset) {
+        }
+         else if (id == R.id.btnReset) {
 
             new AlertDialog.Builder(this)
                     .setTitle("Reset to Default")
@@ -158,11 +132,7 @@ public class CheckList extends AppCompatActivity {
                     })
                     .show();
             return true;
-        } else if (id == R.id.btnAboutUs) {
-            intent = new Intent(this, AboutUs.class);
-            startActivity(intent);
-            return true;
-        } else if(id == R.id.btnExit) {
+        }  else if(id == R.id.btnExit) {
             this.finishAffinity();
             return true;
         }

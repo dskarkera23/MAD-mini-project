@@ -2575,6 +2575,8 @@ drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable travel1
+drawable travel2
 drawable warning
 drawable wave2
 drawable yu17
@@ -2679,11 +2681,8 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id btnAboutUs
 id btnAdd
-id btnCustomList
 id btnDelete
-id btnDeleteDefault
 id btnExit
 id btnMySelection
 id btnReset
